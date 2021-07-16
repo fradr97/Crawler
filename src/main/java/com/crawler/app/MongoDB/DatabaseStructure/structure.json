@@ -1,0 +1,6 @@
+{
+  "idSeed": "{type: int, required: true}",
+  "seed": "{type: String, required: true}",
+  "visited": "{type: Array, required: true}",
+  "crawlFrontier": "{type: Array, required: true}"
+}
