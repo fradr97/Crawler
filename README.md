@@ -10,5 +10,5 @@ This tool was developed for the purpose of a study whose objectives were to craw
 
 - First download and install Java and MongoDB (https://www.mongodb.com/)
 - git clone https://github.com/fradr97/Crawler.git
-- cd crawler
+- cd Crawler
 - mvnw compile exec:java -Dexec.mainClass="com.crawler.app.Main"
